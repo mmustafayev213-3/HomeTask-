@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "D0F38P4K/gSazY04hc1ZaCERATAFqZkZoDMOvpVWk8hq+G99t1F6LsMuDxbEYn8hIJhup7Xw3YrhuPoRNjqRBA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\acer\\Desktop\\Console Applications\\Home Task\\Home Task\\Home Task.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\acer\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.30\\microsoft.netcore.app.host.win-x64.3.1.30.nupkg.sha512"
+  ],
+  "logs": []
+}

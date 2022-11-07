@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Q4n13mnZLo5hpmmlRE8GBIzVnlQCgGBRrUi5E2wLv+yA+97HM5iaICPxBQcD9vxVtvJx+Zy5O2z4Cc5nGON1CA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\acer\\Desktop\\Console Applications\\NumberIsPositiveNegative\\NumberIsPositiveNegative\\NumberIsPositiveNegative.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\acer\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.30\\microsoft.netcore.app.host.win-x64.3.1.30.nupkg.sha512"
+  ],
+  "logs": []
+}

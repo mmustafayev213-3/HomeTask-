@@ -1,0 +1,14 @@
+C:\Users\acer\Desktop\Console Applications\Home Task\Home Task\bin\Debug\netcoreapp3.1\Home Task.exe
+C:\Users\acer\Desktop\Console Applications\Home Task\Home Task\bin\Debug\netcoreapp3.1\Home Task.deps.json
+C:\Users\acer\Desktop\Console Applications\Home Task\Home Task\bin\Debug\netcoreapp3.1\Home Task.runtimeconfig.json
+C:\Users\acer\Desktop\Console Applications\Home Task\Home Task\bin\Debug\netcoreapp3.1\Home Task.runtimeconfig.dev.json
+C:\Users\acer\Desktop\Console Applications\Home Task\Home Task\bin\Debug\netcoreapp3.1\Home Task.dll
+C:\Users\acer\Desktop\Console Applications\Home Task\Home Task\bin\Debug\netcoreapp3.1\Home Task.pdb
+C:\Users\acer\Desktop\Console Applications\Home Task\Home Task\obj\Debug\netcoreapp3.1\Home Task.csproj.AssemblyReference.cache
+C:\Users\acer\Desktop\Console Applications\Home Task\Home Task\obj\Debug\netcoreapp3.1\Home Task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\Desktop\Console Applications\Home Task\Home Task\obj\Debug\netcoreapp3.1\Home Task.AssemblyInfoInputs.cache
+C:\Users\acer\Desktop\Console Applications\Home Task\Home Task\obj\Debug\netcoreapp3.1\Home Task.AssemblyInfo.cs
+C:\Users\acer\Desktop\Console Applications\Home Task\Home Task\obj\Debug\netcoreapp3.1\Home Task.csproj.CoreCompileInputs.cache
+C:\Users\acer\Desktop\Console Applications\Home Task\Home Task\obj\Debug\netcoreapp3.1\Home Task.dll
+C:\Users\acer\Desktop\Console Applications\Home Task\Home Task\obj\Debug\netcoreapp3.1\Home Task.pdb
+C:\Users\acer\Desktop\Console Applications\Home Task\Home Task\obj\Debug\netcoreapp3.1\Home Task.genruntimeconfig.cache

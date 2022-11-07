@@ -1,0 +1,14 @@
+C:\Users\acer\Desktop\Console Applications\NumberIsPositiveNegative\NumberIsPositiveNegative\bin\Debug\netcoreapp3.1\NumberIsPositiveNegative.exe
+C:\Users\acer\Desktop\Console Applications\NumberIsPositiveNegative\NumberIsPositiveNegative\bin\Debug\netcoreapp3.1\NumberIsPositiveNegative.deps.json
+C:\Users\acer\Desktop\Console Applications\NumberIsPositiveNegative\NumberIsPositiveNegative\bin\Debug\netcoreapp3.1\NumberIsPositiveNegative.runtimeconfig.json
+C:\Users\acer\Desktop\Console Applications\NumberIsPositiveNegative\NumberIsPositiveNegative\bin\Debug\netcoreapp3.1\NumberIsPositiveNegative.runtimeconfig.dev.json
+C:\Users\acer\Desktop\Console Applications\NumberIsPositiveNegative\NumberIsPositiveNegative\bin\Debug\netcoreapp3.1\NumberIsPositiveNegative.dll
+C:\Users\acer\Desktop\Console Applications\NumberIsPositiveNegative\NumberIsPositiveNegative\bin\Debug\netcoreapp3.1\NumberIsPositiveNegative.pdb
+C:\Users\acer\Desktop\Console Applications\NumberIsPositiveNegative\NumberIsPositiveNegative\obj\Debug\netcoreapp3.1\NumberIsPositiveNegative.csproj.AssemblyReference.cache
+C:\Users\acer\Desktop\Console Applications\NumberIsPositiveNegative\NumberIsPositiveNegative\obj\Debug\netcoreapp3.1\NumberIsPositiveNegative.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\Desktop\Console Applications\NumberIsPositiveNegative\NumberIsPositiveNegative\obj\Debug\netcoreapp3.1\NumberIsPositiveNegative.AssemblyInfoInputs.cache
+C:\Users\acer\Desktop\Console Applications\NumberIsPositiveNegative\NumberIsPositiveNegative\obj\Debug\netcoreapp3.1\NumberIsPositiveNegative.AssemblyInfo.cs
+C:\Users\acer\Desktop\Console Applications\NumberIsPositiveNegative\NumberIsPositiveNegative\obj\Debug\netcoreapp3.1\NumberIsPositiveNegative.csproj.CoreCompileInputs.cache
+C:\Users\acer\Desktop\Console Applications\NumberIsPositiveNegative\NumberIsPositiveNegative\obj\Debug\netcoreapp3.1\NumberIsPositiveNegative.dll
+C:\Users\acer\Desktop\Console Applications\NumberIsPositiveNegative\NumberIsPositiveNegative\obj\Debug\netcoreapp3.1\NumberIsPositiveNegative.pdb
+C:\Users\acer\Desktop\Console Applications\NumberIsPositiveNegative\NumberIsPositiveNegative\obj\Debug\netcoreapp3.1\NumberIsPositiveNegative.genruntimeconfig.cache
